@@ -1,6 +1,5 @@
 <?php
 /*
-<<<<<<< HEAD
  * Bismillahirrahmanirrahim.. 
  * */
 
